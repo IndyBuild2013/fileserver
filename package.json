@@ -1,0 +1,22 @@
+{
+  "name": "fileServer",
+  "version": "1.0.0",
+  "description": "Server To Read and Write Files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Pipe",
+    "Database",
+    "CouchDB",
+    "ElasticSearch"
+  ],
+  "author": "Andreaus Robinson, Saquib Ullah",
+  "license": "ISC",
+  "dependencies":{
+     "express": "^4.12.3",
+     "eventsource":"^0.1.6",
+     "concat-stream": "^1.4.8"
+  }
+}
